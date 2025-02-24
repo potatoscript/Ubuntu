@@ -1,4 +1,36 @@
-# [Ubuntu Cheat Sheets](https://github.com/potatoscript/ubuntu/wiki)
+# Ubuntu Cheat Sheets:
+| Title    | Remark  |
+| -------------| -----|
+| [Installation](https://github.com/potatoscript/ubuntu/wiki/Installation) | Step-by-step guide on installing Ubuntu on WSL2, Virtual Machines, or bare-metal hardware.  |
+| [Basic Command](https://github.com/potatoscript/ubuntu/wiki/Basic-Command) | Fundamental Linux commands for navigating the filesystem, managing directories, and executing essential tasks.  |
+| [File Management](https://github.com/potatoscript/ubuntu/wiki/File-Management) | Instructions on creating, copying, moving, deleting, and viewing files and directories using command-line utilities.  |
+| [User Management](https://github.com/potatoscript/ubuntu/wiki/User-Management) | Managing user accounts, groups, permissions, and authentication settings within Ubuntu.  |
+| [Permissions](https://github.com/potatoscript/ubuntu/wiki/Permissions) | Explanation of file and directory permissions, ownership, and access control mechanisms.  |
+| [Process Management](https://github.com/potatoscript/ubuntu/wiki/Process-Management) | Monitoring and controlling system processes, jobs, and background tasks using command-line tools.  |
+| [Networking](https://github.com/potatoscript/ubuntu/wiki/Networking) | Configuring and troubleshooting network interfaces, checking connectivity, and managing network services.  |
+| [Package Management](https://github.com/potatoscript/ubuntu/wiki/Package-Management) | Installing, updating, removing, and managing software packages using APT, Snap, and Flatpak.  |
+| [System Monitoring](https://github.com/potatoscript/ubuntu/wiki/System-Monitoring) | Tools for tracking CPU, memory, disk usage, and overall system performance in real-time.  |
+| [Disk Management](https://github.com/potatoscript/ubuntu/wiki/Disk-Management) | Partitioning, formatting, mounting, and monitoring storage devices and disk space.  |
+| [Services & Daemons](https://github.com/potatoscript/ubuntu/wiki/Services-and-Daemons) | Managing system services, background processes, and startup programs using systemd.  |
+| [Firewall & Security](https://github.com/potatoscript/ubuntu/wiki/Firewall-Security) | Configuring Ubuntu’s firewall, securing SSH access, and implementing best security practices.  |
+| [Environment Variables](https://github.com/potatoscript/ubuntu/wiki/Environment-Variables) | Setting, modifying, and managing environment variables for system and user sessions.  |
+| [Shell Scripting](https://github.com/potatoscript/ubuntu/wiki/Shell-Scripting) | Writing and executing Bash scripts to automate repetitive tasks and streamline system operations.  |
+| [Cron Jobs & Automation](https://github.com/potatoscript/ubuntu/wiki/Cron-Jobs-Automation) | Scheduling and automating tasks using cron jobs, systemd timers, and task automation tools.  |
+| [Docker & Containers](https://github.com/potatoscript/ubuntu/wiki/Docker-Containers) | Deploying and managing containerized applications using Docker, Podman, and Kubernetes.  |
+| [Virtualization](https://github.com/potatoscript/ubuntu/wiki/Virtualization) | Running virtual machines on Ubuntu using KVM, QEMU, VirtualBox, and Vagrant.  |
+| [Git & Version Control](https://github.com/potatoscript/ubuntu/wiki/Git-Version-Control) | Managing code repositories, version control workflows, and collaboration using Git.  |
+| [Python & Development](https://github.com/potatoscript/ubuntu/wiki/Python-Development) | Setting up Python, virtual environments, package management, and development tools.  |
+| [Node.js & JavaScript](https://github.com/potatoscript/ubuntu/wiki/NodeJS-JavaScript) | Installing Node.js, managing dependencies with npm/yarn, and running JavaScript applications.  |
+| [Database Management](https://github.com/potatoscript/ubuntu/wiki/Database-Management) | Installing and managing databases such as MySQL, PostgreSQL, SQLite, and MongoDB.  |
+| [System Backup & Recovery](https://github.com/potatoscript/ubuntu/wiki/System-Backup-Recovery) | Strategies for backing up, restoring, and recovering system data and configurations.  |
+| [Remote Access & SSH](https://github.com/potatoscript/ubuntu/wiki/Remote-Access-SSH) | Securely connecting to remote machines using SSH, SCP, Rsync, and session management tools.  |
+| [Logging & Debugging](https://github.com/potatoscript/ubuntu/wiki/Logging-Debugging) | Monitoring system logs, troubleshooting errors, and debugging applications effectively.  |
+| [Performance Tuning](https://github.com/potatoscript/ubuntu/wiki/Performance-Tuning) | Optimizing system performance, tuning kernel parameters, and managing resource allocation.  |
+| [Compiling Software](https://github.com/potatoscript/ubuntu/wiki/Compiling-Software) | Building software from source using compilers like GCC, Clang, Make, and CMake.  |
+| [Linux Kernel Management](https://github.com/potatoscript/ubuntu/wiki/Linux-Kernel-Management) | Understanding and managing the Linux kernel, including updates, modules, and custom builds.  |
+
+
+---
 
 ## Table of Contents
 - [Introduction](#introduction)
